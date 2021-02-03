@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-euerka/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-privder/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-first/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybits/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-Jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot -test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-email/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin/springbootadminserver/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin/springbootadminclient/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-admin/springbootAdminServer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-adminServer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-devtool/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Hibernate-Validator/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Content-Negotiation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-current/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-elasearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mall/pom.xml" />
+        <option value="$PROJECT_DIR$/elasearch-study/pom.xml" />
+        <option value="$PROJECT_DIR$/shardingsphere/pom.xml" />
+        <option value="$PROJECT_DIR$/springCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-quartz/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+2020-05-13 10:16:53.071  INFO 18012 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication on liangjinghai with PID 18012 (D:\workplace\springcloud-ljh\springboot-devtool\target\classes started by user in D:\workplace\springcloud-ljh)
+2020-05-13 10:16:53.082  INFO 18012 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-05-13 10:16:53.146  INFO 18012 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-05-13 10:16:53.146  INFO 18012 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-05-13 10:16:54.029  INFO 18012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-13 10:16:54.036  INFO 18012 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-13 10:16:54.037  INFO 18012 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-13 10:16:54.106  INFO 18012 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-13 10:16:54.107  INFO 18012 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 957 ms
+2020-05-13 10:16:54.260  INFO 18012 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-13 10:16:54.395  INFO 18012 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-05-13 10:16:54.438  INFO 18012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-13 10:16:54.442  INFO 18012 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 1.761 seconds (JVM running for 2.666)
+2020-05-13 10:16:59.983  INFO 18012 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-13 10:16:59.984  INFO 18012 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-13 10:16:59.989  INFO 18012 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-13 10:17:06.506  INFO 18012 --- [http-nio-8080-exec-2] ication$$EnhancerBySpringCGLIB$$bd0023c0 : 日志输出 info
+2020-05-13 10:17:06.507  WARN 18012 --- [http-nio-8080-exec-2] ication$$EnhancerBySpringCGLIB$$bd0023c0 : 日志输出 warn
+2020-05-13 10:17:06.508 ERROR 18012 --- [http-nio-8080-exec-2] ication$$EnhancerBySpringCGLIB$$bd0023c0 : 日志输出 error
+2020-05-13 10:28:20.258  INFO 18012 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-13 10:28:20.538  INFO 18012 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication on liangjinghai with PID 18012 (D:\workplace\springcloud-ljh\springboot-devtool\target\classes started by user in D:\workplace\springcloud-ljh)
+2020-05-13 10:28:20.538  INFO 18012 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to default profiles: default
+2020-05-13 10:28:20.698  INFO 18012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-13 10:28:20.699  INFO 18012 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-13 10:28:20.699  INFO 18012 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.34]
+2020-05-13 10:28:20.725  INFO 18012 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-13 10:28:20.725  INFO 18012 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 184 ms
+2020-05-13 10:28:20.759  INFO 18012 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-13 10:28:20.787  INFO 18012 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-05-13 10:28:20.801  INFO 18012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-13 10:28:20.801  INFO 18012 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 0.296 seconds (JVM running for 689.031)
+2020-05-13 10:28:20.803  INFO 18012 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-05-13 10:28:23.937  INFO 18012 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-13 10:28:23.938  INFO 18012 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-13 10:28:23.940  INFO 18012 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2020-05-13 13:56:55.932  INFO 18012 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

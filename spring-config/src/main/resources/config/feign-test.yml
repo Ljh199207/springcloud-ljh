@@ -1,0 +1,60 @@
+swagger:
+  switch: on
+  group: dcc
+web:
+  staticPath: http://dev.umc.qwgas.com
+  appCode: admin
+  sessionId: qkid_admin_dev
+feign:
+  client:
+    config:
+      default:  # 服务名，default表示所有服务
+        connectTimeout: 10000
+        readTimeout: 60000
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 60000
+ribbon:
+  ReadTimeout: 360000
+  ConnectTimeout: 360000
+  MaxAutoRetries: 0 #在同一台服务器上重试的最大次数
+  MaxAutoRetriesNextServer: 1 #要重试的下一个服务器的最大数量
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.215.23:3306/qwgas?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=CTT&allowMultiQueries=true
+    username: root
+    password: admin
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  rabbitmq:
+    host: 192.168.215.23
+    port: 5672
+    username: qwgas
+    password: 123456
+  redis:
+    host: 192.168.215.23
+    port: 6379
+    password: 123456
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+  messages:
+    basename: i18n.framework,i18n.umc,i18n.dcc
+tx-lcn:
+  logger:
+    enabled: true
+  client:
+    manager-address: 192.168.215.23:8070
+  ribbon:
+    loadbalancer:
+      dtx:
+        enabled: true
+fsc:
+  ftp:
+    ip: 192.168.215.23
+    port: 21
+    username: qwgas
+    password: 123456

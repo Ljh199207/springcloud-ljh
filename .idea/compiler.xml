@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-config" />
+        <module name="spring-zuul" />
+        <module name="springboot-mall" />
+        <module name="springboot-adminServer" />
+        <module name="spring-kafka" />
+        <module name="spring-privder" />
+        <module name="spring-euerka" />
+        <module name="springbootadminclient" />
+        <module name="shardingsphere" />
+        <module name="springCycle" />
+        <module name="spring-ribbon" />
+        <module name="springboot-rabbitmq" />
+        <module name="spring-aop" />
+        <module name="Spring-Boot-Hibernate-Validator" />
+        <module name="rabbitmq-consumer" />
+        <module name="springboot-email" />
+        <module name="springboot-elasearch" />
+        <module name="spring-feign" />
+        <module name="springboot-actuator" />
+        <module name="springboot-exception" />
+        <module name="springboot-jdbc" />
+        <module name="elasearch-study" />
+        <module name="Spring-Boot-Content-Negotiation" />
+        <module name="springboot-netty" />
+        <module name="springboot-redis" />
+        <module name="springboot-devtool" />
+        <module name="springboot -test" />
+        <module name="sc-f-gateway-first" />
+        <module name="springboot-mybits" />
+        <module name="springboot-current" />
+        <module name="springboot-quartz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="elasearch-study" target="11" />
+      <module name="rabbitmq-consumer" target="1.8" />
+      <module name="sc-f-gateway-first" target="1.8" />
+      <module name="shardingsphere" target="11" />
+      <module name="spring boot admin server" target="1.8" />
+      <module name="spring-aop" target="8" />
+      <module name="Spring-Boot-Content-Negotiation" target="1.8" />
+      <module name="Spring-Boot-Hibernate-Validator" target="1.8" />
+      <module name="spring-config" target="1.8" />
+      <module name="spring-euerka" target="1.8" />
+      <module name="spring-feign" target="1.8" />
+      <module name="spring-kafka" target="11" />
+      <module name="spring-privder" target="1.8" />
+      <module name="spring-ribbon" target="1.8" />
+      <module name="spring-zuul" target="1.8" />
+      <module name="springboot -test" target="1.8" />
+      <module name="springboot-actuator" target="1.8" />
+      <module name="springboot-admin" target="1.8" />
+      <module name="springboot-adminClient" target="1.8" />
+      <module name="springboot-adminServer" target="1.8" />
+      <module name="springboot-current" target="11" />
+      <module name="springboot-devtool" target="1.8" />
+      <module name="springboot-elasearch" target="9" />
+      <module name="springboot-email" target="1.8" />
+      <module name="springboot-exception" target="1.8" />
+      <module name="springboot-jdbc" target="1.8" />
+      <module name="springboot-mall" target="11" />
+      <module name="springboot-mybits" target="1.8" />
+      <module name="springboot-mybits (1)" target="1.8" />
+      <module name="springboot-netty" target="11" />
+      <module name="springboot-quartz" target="11" />
+      <module name="springboot-rabbitmq" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springbootadminclient" target="1.8" />
+      <module name="springbootAdminServer" target="1.8" />
+      <module name="springbootadminserver" target="1.8" />
+      <module name="springcloud-ljh" target="1.8" />
+      <module name="springCycle" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-Boot-Content-Negotiation" options="-parameters" />
+      <module name="Spring-Boot-Hibernate-Validator" options="-parameters" />
+      <module name="elasearch-study" options="-parameters" />
+      <module name="rabbitmq-consumer" options="-parameters" />
+      <module name="sc-f-gateway-first" options="-parameters" />
+      <module name="shardingsphere" options="-parameters" />
+      <module name="spring boot admin server" options="-parameters" />
+      <module name="spring-aop" options="-parameters" />
+      <module name="spring-config" options="-parameters" />
+      <module name="spring-euerka" options="-parameters" />
+      <module name="spring-feign" options="-parameters" />
+      <module name="spring-kafka" options="-parameters" />
+      <module name="spring-privder" options="-parameters" />
+      <module name="spring-ribbon" options="-parameters" />
+      <module name="spring-zuul" options="-parameters" />
+      <module name="springCycle" options="-parameters" />
+      <module name="springboot -test" options="-parameters" />
+      <module name="springboot-actuator" options="-parameters" />
+      <module name="springboot-admin" options="-parameters" />
+      <module name="springboot-adminClient" options="-parameters" />
+      <module name="springboot-adminServer" options="-parameters" />
+      <module name="springboot-current" options="-parameters" />
+      <module name="springboot-devtool" options="-parameters" />
+      <module name="springboot-elasearch" options="-parameters" />
+      <module name="springboot-email" options="-parameters" />
+      <module name="springboot-exception" options="-parameters" />
+      <module name="springboot-jdbc" options="-parameters" />
+      <module name="springboot-mall" options="-parameters" />
+      <module name="springboot-mybits" options="-parameters" />
+      <module name="springboot-netty" options="-parameters" />
+      <module name="springboot-quartz" options="-parameters" />
+      <module name="springboot-rabbitmq" options="-parameters" />
+      <module name="springboot-redis" options="-parameters" />
+      <module name="springbootAdminServer" options="-parameters" />
+      <module name="springbootadminclient" options="-parameters" />
+      <module name="springbootadminserver" options="-parameters" />
+      <module name="springcloud-ljh" options="-parameters" />
+    </option>
+  </component>
+</project>

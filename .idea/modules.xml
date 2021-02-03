@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Content-Negotiation/Spring-Boot-Content-Negotiation.iml" filepath="$PROJECT_DIR$/Spring-Boot-Content-Negotiation/Spring-Boot-Content-Negotiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Hibernate-Validator/Spring-Boot-Hibernate-Validator.iml" filepath="$PROJECT_DIR$/Spring-Boot-Hibernate-Validator/Spring-Boot-Hibernate-Validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasearch-study/elasearch-study.iml" filepath="$PROJECT_DIR$/elasearch-study/elasearch-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-consumer/rabbitmq-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-consumer/rabbitmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-first/sc-f-gateway-first.iml" filepath="$PROJECT_DIR$/sc-f-gateway-first/sc-f-gateway-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shardingsphere/shardingsphere.iml" filepath="$PROJECT_DIR$/shardingsphere/shardingsphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/spring-aop/spring-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-config.iml" filepath="$PROJECT_DIR$/spring-config/spring-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-euerka/spring-euerka.iml" filepath="$PROJECT_DIR$/spring-euerka/spring-euerka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-feign/spring-feign.iml" filepath="$PROJECT_DIR$/spring-feign/spring-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-kafka/spring-kafka.iml" filepath="$PROJECT_DIR$/spring-kafka/spring-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-privder/spring-privder.iml" filepath="$PROJECT_DIR$/spring-privder/spring-privder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ribbon/spring-ribbon.iml" filepath="$PROJECT_DIR$/spring-ribbon/spring-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-zuul/spring-zuul.iml" filepath="$PROJECT_DIR$/spring-zuul/spring-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCycle/springCycle.iml" filepath="$PROJECT_DIR$/springCycle/springCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot -test/springboot -test.iml" filepath="$PROJECT_DIR$/springboot -test/springboot -test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-actuator/springboot-actuator.iml" filepath="$PROJECT_DIR$/springboot-actuator/springboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-adminServer/springboot-adminServer.iml" filepath="$PROJECT_DIR$/springboot-adminServer/springboot-adminServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-current/springboot-current.iml" filepath="$PROJECT_DIR$/springboot-current/springboot-current.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-devtool/springboot-devtool.iml" filepath="$PROJECT_DIR$/springboot-devtool/springboot-devtool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-elasearch/springboot-elasearch.iml" filepath="$PROJECT_DIR$/springboot-elasearch/springboot-elasearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-email/springboot-email.iml" filepath="$PROJECT_DIR$/springboot-email/springboot-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-exception/springboot-exception.iml" filepath="$PROJECT_DIR$/springboot-exception/springboot-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-Jdbc/springboot-jdbc.iml" filepath="$PROJECT_DIR$/springboot-Jdbc/springboot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mall/springboot-mall.iml" filepath="$PROJECT_DIR$/springboot-mall/springboot-mall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybits/springboot-mybits.iml" filepath="$PROJECT_DIR$/springboot-mybits/springboot-mybits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-netty/springboot-netty.iml" filepath="$PROJECT_DIR$/springboot-netty/springboot-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" filepath="$PROJECT_DIR$/springboot-quartz/springboot-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-ljh.iml" filepath="$PROJECT_DIR$/springcloud-ljh.iml" />
+    </modules>
+  </component>
+</project>

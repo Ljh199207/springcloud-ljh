@@ -1,0 +1,16 @@
+server:
+  port: 5052
+spring:
+  application:
+    name: config
+  profiles:
+    active: native
+  cloud:
+      config:
+        server:
+          native:
+            search-locations: classpath:/config
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka/

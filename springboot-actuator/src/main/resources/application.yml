@@ -1,0 +1,15 @@
+management:
+  endpoints:
+    enabled-by-default: true
+    #启动所有断点
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
+info:
+  app:
+    name: Spring Boot Actuator Demo
+  version : v1.0.0
+  description : Spring Boot Actuator Demo

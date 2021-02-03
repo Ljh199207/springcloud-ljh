@@ -1,0 +1,43 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: spring-eureka
+    #安全认证
+#  security:
+#    user:
+#      name: root
+#      password: root
+#      roles: SUPERUSER
+    #关闭认证
+eureka:
+  client:
+    serviceUrl:
+      #defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://127.0.0.1:8761/eureka/
+    register-with-eureka: false
+    fetch-registry: false
+#  register-with-eureka: false   #是否将eureka自身作为应用注册到eureka注册中心  默认true
+#  fetch-registry: true   #表示是否从Eureka Server上获取注册信息，默认为true
+#  instance:
+#    hostname: 127.0.0.1   #实例名
+#    prefer-ip-address: true  #ip地址访问
+#    lease-expiration-duration-in-seconds: 5 #设置心跳的周期间隔(默认90s)[如果5s没响应默认服务宕机]
+#    lease-renewal-interval-in-seconds: 2  #设置心跳时间间隔(默认30s)
+#  server:
+#    eviction-interval-timer-in-ms: 6000 #设置清理的间隔时间(默认6000ms)
+#    enable-self-preservation: false   #关闭保护模式
+#management:
+#  endpoint:
+#    shutdown:
+#      enabled: true   #让你逐步关闭应用
+#    health:
+#      show-details: always   #显示详细的健康信息
+#  endpoints:
+#    web:
+#      exposure:
+#        include: health,info,metrics,loggers      #通过HTTP暴露Actuator endpoints。
+#        exclude:
+#    jmx:
+#      exposure:
+#        exclude:  #通过JMX暴露Actuator endpoints。

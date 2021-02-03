@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--构造器注入-->
+    <!--<bean scope="singleton" id="A" class="cycle.A">
+        <constructor-arg index="0" ref="B"/>
+    </bean>
+    <bean scope="singleton" id="B" class="cycle.B">
+        <constructor-arg index="0" ref="A"/>
+    </bean>-->
+    <!--setter注入-->
+    <bean id="cycleA" class="cycle.A">
+        <property name="b" ref="cycleB"></property>
+    </bean>
+    <bean id="cycleB" class="cycle.B">
+        <property name="a" ref="cycleA"></property>
+    </bean>
+</beans>

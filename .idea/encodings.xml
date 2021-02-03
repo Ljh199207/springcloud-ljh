@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-Content-Negotiation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-Content-Negotiation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-Hibernate-Validator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Boot-Hibernate-Validator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasearch-study" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasearch-study/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-gateway-first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sc-f-gateway-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shardingsphere" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shardingsphere/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-euerka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-euerka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-privder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-privder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCycle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot -test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot -test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-Jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-Jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-adminServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-adminServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-current" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-current/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-devtool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-devtool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-elasearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-elasearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-elasearch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mall" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mall/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybits" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybits/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-rabbitmq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

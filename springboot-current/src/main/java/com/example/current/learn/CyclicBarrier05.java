@@ -1,0 +1,35 @@
+package com.example.current.learn;
+
+import java.util.concurrent.CyclicBarrier;
+
+public class CyclicBarrier05 {
+
+    private static CyclicBarrier cyclicBarrier;
+
+    static class CyclicBarrierThread extends Thread {
+
+        @Override
+        public void run() {
+            System.out.println(Thread.currentThread().getName() + "到了");
+            try {
+                cyclicBarrier.await();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        cyclicBarrier = new CyclicBarrier(5, new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("人到齐了，开会吧....");
+            }
+        });
+
+        for (int i = 0; i < 5; i++) {
+            new CyclicBarrierThread().start();
+        }
+
+    }
+}
